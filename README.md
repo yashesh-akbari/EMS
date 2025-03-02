@@ -60,7 +60,7 @@ Follow these steps to run the project locally on your machine.
 ## **Live Demo**
 You can view the live demo of the Employee Management System at the following link:
 
-[Live Demo]([https://your-live-demo-link.com](https://ems-kfm1-yashesh-akbaris-projects.vercel.app/))
+[Live Demo]([https://ems-kfm1-yashesh-akbaris-projects.vercel.app/])
 
 ---
 
