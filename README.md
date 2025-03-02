@@ -3,16 +3,15 @@
 ## **Overview**
 The **Employee Management System** is a modern web application built with **React.js**, **Tailwind CSS**, **HTML**, and **JavaScript**. This system allows admins to manage employee data and assign tasks. Employees can mark tasks as **completed** or **failed**, and the system offers task tracking and seamless user interactions.
 
-### **Key Features**
-- **Admin Role**: Admins can assign tasks to employees, view task status (completed or failed), and manage employee records.
-- **Employee Role**: Employees can view their assigned tasks, mark them as **completed** or **failed**, and provide updates on task status.
-- **User Authentication**: Simple login system for both Admins and Employees.
+## **Live Demo**
+You can view the live demo of the Employee Management System at the following link:
+
+[Live Demo](https://ems-kfm1-yashesh-akbaris-projects.vercel.app/)
+
+---
 
 ### **Login Details**
 - **Admin Login**:
-  - Email: `admin@gmail.com`
-  - Password: `123`
-  - or
   - Email: `admin@me.com`
   - Password: `123`
 
@@ -21,6 +20,11 @@ The **Employee Management System** is a modern web application built with **Reac
   - Password: `123`
 
 ---
+
+### **Key Features**
+- **Admin Role**: Admins can assign tasks to employees, view task status (completed or failed), and manage employee records.
+- **Employee Role**: Employees can view their assigned tasks, mark them as **completed** or **failed**, and provide updates on task status.
+- **User Authentication**: Simple login system for both Admins and Employees.
 
 ## **Technologies Used**
 - **React.js**: For building the dynamic user interface and managing state.
@@ -57,28 +61,29 @@ Follow these steps to run the project locally on your machine.
 
 ---
 
-## **Live Demo**
-You can view the live demo of the Employee Management System at the following link:
-
-[Live Demo](https://ems-kfm1-yashesh-akbaris-projects.vercel.app/)
-
----
-
 ## **Usage**
 
 ### **Admin Panel**:
 1. Log in with the admin credentials:
-   - Email: `admin@gmail.com`
+   - Email: `admin@me.com`
    - Password: `123`
    
 2. Admin can **assign tasks** to employees, **view task completion status**, and manage employee records.
 
 ### **Employee Panel**:
 1. Employees can log in with their credentials:
-   - Email: `employee1@example.com`
+   - Email: `employee1@example.com` 
+   - Password: `123`
+  
+2. Employees can log in with their credentials:
+   - Email: `employee2@example.com` 
+   - Password: `123`
+  
+3. Employees can log in with their credentials:
+   - Email: `employee3@example.com` 
    - Password: `123`
    
-2. Employees can view their **assigned tasks**, mark them as **completed** or **failed**, and update their task status.
+4. Employees can view their **assigned tasks**, mark them as **completed** or **failed**, and update their task status.
 
 ---
 
